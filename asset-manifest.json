@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecom-3Hr-Test/static/css/main.756af292.css",
+    "main.js": "/Ecom-3Hr-Test/static/js/main.fa0f65f0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Ecom-3Hr-Test/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Ecom-3Hr-Test/index.html",
+    "main.756af292.css.map": "/Ecom-3Hr-Test/static/css/main.756af292.css.map",
+    "main.fa0f65f0.js.map": "/Ecom-3Hr-Test/static/js/main.fa0f65f0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Ecom-3Hr-Test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.fa0f65f0.js"
+  ]
+}
